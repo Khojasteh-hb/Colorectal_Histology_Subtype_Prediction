@@ -1,4 +1,4 @@
-# Colorectal_Histology
+# Colorectal_Histology_Subtype_Prediction
 This project aims to predict subtypes of colorectal cancer using a Convolutional neural network (CNN). 
 
 Datasets obtained from https://www.cancer.gov/ccg/research/genome-sequencing/tcga
